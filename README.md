@@ -2,7 +2,7 @@
 
 ## Description
 
-![image](erd/erd_layout.png)
+![image](erd/erd_layout.png)<br>
 This image shows the relationships between the data. (It is also located inside the `erd` folder)
 
 The schemata are located inside `schema/schema.sql`, for creating the tables based on the above relationships.
